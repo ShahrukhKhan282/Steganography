@@ -6,7 +6,7 @@ import ctypes
 file_path = ""
 enc_img_path = ""
 img_path = ""
-message = ""
+message = ""mn
 
 def limitSizeDay(*args):
     value = dayValue.get()
